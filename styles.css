@@ -1,11 +1,12 @@
 body {
-  background-color: midnightblue}
+  background-color: coral}
 h1 {
   color: orange;
   text-align: center;
   font-size:20px;
 }
-p {font-size: 12px;
+p {
+  font-size: 12px;
   color: coral;
   text-align: right;
 }
