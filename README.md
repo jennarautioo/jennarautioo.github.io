@@ -3,8 +3,8 @@
 <html>
 <body>
 
-<h1>Mun otsikko</h1>
-<p>Tässä tekstiä</p>
+<h1>This is</h1>
+<p>what dreams are made of</p>
 
 </body>
 </html>
