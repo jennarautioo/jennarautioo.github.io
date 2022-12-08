@@ -1,12 +1,12 @@
 body {
   background-color: black}
 h1 {
-  color: white;
+  color: darkcyan;
   text-align: center;
   font-size: 30px;
 }
 p {
-  color: white;
+  color: cadetblue;
   text-align: center;
   font-size: 15px;
 }
