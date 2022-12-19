@@ -1,5 +1,19 @@
 body {
-  background-color: white}
+  background-color: white;
+}
+a:link {
+  color: darkcyan;
+  text-decoration: none;
+  }
+a:visited {
+  color: darkcyan;
+  text-decoration: none;
+  }
+a:hover {
+  color: darkblue;
+  text-decoration: none;
+}
+
 h1 {
   color: darkcyan;
   text-align: center;
