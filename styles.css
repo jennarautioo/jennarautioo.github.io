@@ -1,6 +1,9 @@
 body {
-background-image: "backimage.png.jpg";
-background-color: white;
+  background-image: "backimage.png.jpg";
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  background-color:white
 }
 h1 {
   color: darkcyan;
