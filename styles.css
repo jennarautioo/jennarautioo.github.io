@@ -14,16 +14,16 @@ h2 {
   font-size: 30px;
 }
 p {
-  color: darkcyan;
-  text-align: center;
+  color: mediumblue;
+  text-align: right;
   font-family: sans-serif;
   font-size: 20px;
 }
 ol {
-  color: pink;
+  color: deeppink;
   font-family: sans-serif;
 }
 ul {
-  color: pink;
+  color: deeppink;
   font-family: sans-serif;
 }
