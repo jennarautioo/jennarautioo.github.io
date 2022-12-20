@@ -1,12 +1,8 @@
 body {
-  background-image: "backimage.png.jpg";
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-  background-color:white
+  background-color:black
 }
 h1 {
-  color: darkcyan;
+  color: pink;
   text-align: right;
   font-family: sans-serif;
   font-size: 60px;
