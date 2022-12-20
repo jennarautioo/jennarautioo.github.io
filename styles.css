@@ -27,11 +27,11 @@ p {
 }
 ol {
   color: deeppink;
-    float:right;
+  text-align:right;
   font-family: sans-serif;
 }
 ul {
   color: deeppink;
-    float:right;
+  text-align:right;
   font-family: sans-serif;
 }
